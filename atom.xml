@@ -1,45 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mikusjelly.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-09-24T10:13:39.871Z</updated>
+    <title>...</title>
+    <updated>2020-09-24T10:20:21.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mikusjelly.github.io"/>
     <link rel="self" href="https://mikusjelly.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>...</subtitle>
     <logo>https://mikusjelly.github.io/images/avatar.png</logo>
     <icon>https://mikusjelly.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, ...</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://mikusjelly.github.io/post/hello-gridea/</id>
-        <link href="https://mikusjelly.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[Avalon]]></title>
+        <id>https://mikusjelly.github.io/post/avalon/</id>
+        <link href="https://mikusjelly.github.io/post/avalon/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p>从昏沉沉的睡梦中<br>
+我忽然想到了这个地方<br>
+亚瑟王传说中的精灵国度<br>
+在古老史诗构织的这片幻想的世界<br>
+没有喧嚣的街市<br>
+没有威严的城塞<br>
+没有华丽的宫殿<br>
+在寂寞的海洋环绕的岛屿上<br>
+却有着大片广阔的草原<br>
+山谷间清澈的溪流<br>
+以及在丘陵上巍然竖立的巨大古木<br>
+在脑海中构建出这篇遗世独立的传说之地后<br>
+我想<br>
+人类理想最终所真正找寻的归宿<br>
+即是回归自然的温柔与宁静<br>
+在翡翠与琉璃色的幻想中<br>
+与所有人一起找到自己的生命中的淡淡的眷慕与归属<br>
+无有忧虑 无有孤独<br>
+即使一个人独立于月夜的树下<br>
+凝望海洋与夜空之界<br>
+也会感受到熟悉的思念与期望<br>
+以及<br>
+那缓慢而坚定的钟声</p>
 ]]></content>
     </entry>
 </feed>
